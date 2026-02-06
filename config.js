@@ -1,5 +1,5 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR WEBSITE HERE 💝
+// 💝 CUSTOMIZE YOUR WEBSITE HERE 💝.
 // ============================================
 
 const CONFIG = {
@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Do you respect and love your husband? 💝",
+    pageTitle: "band? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you respect and love your husband and Do you like me?",                                    // First interaction
+            text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
